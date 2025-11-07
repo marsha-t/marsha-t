@@ -9,15 +9,15 @@ I specialize in causal inference, machine learning, and full-stack development.
 
 <h3>💻 Featured Projects</h3>
 
-Currently building **[SkinDiary](https://github.com/marshateo/SkinDiary)** — an AI-powered skincare tracker — and **ft_transcendence**, a full-stack multiplayer web app built from first principles at 42 Abu Dhabi.
+Currently building **[SkinDiary](https://github.com/marsha-t/SkinDiary)** — an AI-powered skincare tracker — and **ft_transcendence**, a full-stack multiplayer web app built from first principles at 42 Abu Dhabi.
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [SkinDiary](https://github.com/marshateo/SkinDiary) | AI-powered skin and skincare tracker | Flutter, Firebase |
-| [Transcendence Showcase](https://github.com/marshateo/transcendence-showcase) | Preview of my ongoing full stack web app (ft_transcendence): a real-time multiplayer Pong game. Full repository will be made public once completed. | Fastify, Tailwind, Docker |
-| [Causal Analysis of Pension Deferral Incentives](https://github.com/marshateo/causal_analysis_incentives) | Policy evaluation of financial incentives on pension deferral using differences-in-differences and regression discontinuity design | Stata |
+| [SkinDiary](https://github.com/marsha-t/SkinDiary) | AI-powered skin and skincare tracker | Flutter, Firebase |
+| [Transcendence Showcase](https://github.com/marsha-t/transcendence-showcase) | Preview of my ongoing full stack web app (ft_transcendence): a real-time multiplayer Pong game. Full repository will be made public once completed. | Fastify, Tailwind, Docker |
+| [Causal Analysis of Pension Deferral Incentives](https://github.com/marsha-t/causal_analysis_incentives) | Policy evaluation of financial incentives on pension deferral using differences-in-differences and regression discontinuity design | Stata |
 | [Predictive Models for Transaction Behaviour](https://github.com/marsha-t/Predictive-Models-for-Transaction-Behaviour) | Predictive analysis to understand user preferences using CART, Logistic Regression, and CHAID | Stata |
-| [Preference Matching Analysis](https://github.com/marshateo/preference-matchin-analysis) | Automated matching using Gale-Shapley algorithm to pair individuals and jobs based on mutual preferences | R |
+| [Preference Matching Analysis](https://github.com/marsha-t/preference-matchin-analysis) | Automated matching using Gale-Shapley algorithm to pair individuals and jobs based on mutual preferences | R |
 | [Hackathon – DataMind](https://github.com/SeanAndrie/DataMind-Hackathon) | Face recognition model for CCTV footage developed as part of a team for computer vision hackathon | Python |
 
 <!-- </details> -->
