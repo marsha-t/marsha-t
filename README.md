@@ -37,7 +37,7 @@ Currently building **[SkinDiary](https://github.com/marsha-t/SkinDiary)** — an
 | [push_swap](https://github.com/marsha-t/push_swap) | Sorting program that outputs the minimal sequence of stack operations to sort integers efficiently | C, Algorithms, Stack operations |
 | [minitalk](https://github.com/marsha-t/minitalk) | Simple client-server communication program using UNIX signals to transmit messages bit by bit. | C, UNIX signals |
 | [FDF](https://github.com/marsha-t/fdf) | 3D wireframe renderer using Bresenham’s algorithm for line drawing, dynamic scaling, and color interpolation | C, Graphics, MinilibX |
-| [minishell]() | Miniature shell with full parsing logic and execution tree (AST) to handle pipes, redirections, logical operators, and wildcard expansion | C, Parsing, Processes, Execve |
+| [minishell](https://github.com/marsha-t/minishell) | Miniature shell with full parsing logic and execution tree (AST) to handle pipes, redirections, logical operators, and wildcard expansion | C, Parsing, Processes, Execve |
 | [philosophers](https://github.com/marsha-t/philosophers) | Simulated the dining philosophers problem to explore concurrency, synchronization, and resource sharing in multi-threaded programs | C, Threads, Mutexes, Synchronization |
 | NetPractice | Completed interactive network configuration simulator designed to teach IP addressing, subnetting, and routing fundamental | Networking, IP addressing, Subnetting |
 | [miniRT](https://github.com/marsha-t/miniRT) | Ray tracer from first principles capable of rendering 3D scenes with lighting, shading, and reflections. | C, Ray Tracing  |
