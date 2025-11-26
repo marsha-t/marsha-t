@@ -77,8 +77,8 @@ Currently building **[SkinDiary](https://github.com/marsha-t/SkinDiary)** — an
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   19 mins         ████████████████████████▒   97.65 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+TypeScript   19 mins         ████████████████████▓░░░░   82.62 %
+JavaScript   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
 ```
 
 <!--END_SECTION:waka-->
