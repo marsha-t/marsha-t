@@ -34,14 +34,6 @@ Projects I’ve built across full-stack systems, data analysis, and user-facing 
 
 For a full overview of my 42 projects, see [42-projects](https://github.com/marsha-t/42-projects).
 
-<details>
-<summary><h3>🌿 Away From Laptop</h3></summary>
-
-- Practicing Brazilian Jiu-Jitsu 
-- Solving jigsaw puzzles 
-
-</details>
-
 
 ### 🌐 Where to find me
 <p><a href="https://github.com/marsha-t" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marshateo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -61,3 +53,11 @@ Other         1 min                 ░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<details>
+<summary><h3>🌿 Away From Laptop</h3></summary>
+
+- Practicing Brazilian Jiu-Jitsu 
+- Solving jigsaw puzzles 
+
+</details>
