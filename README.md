@@ -15,7 +15,7 @@ I enjoy building things that are both technically rigorous and genuinely useful.
 
 ## 🧠 Currently exploring
 
-- Writing a series on the JavaScript event loop  
+- Writing a [series on the JavaScript event loop](https://github.com/marsha-t/javascript-event-loop-explained)  
 - Deepening my understanding of machine learning fundamentals  
 - Building small products and learning in public  
 
