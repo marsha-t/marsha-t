@@ -45,11 +45,11 @@ For a full overview of my 42 projects, see [42-projects](https://github.com/mars
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    5 hrs 26 mins         ███████▒░░░░░░░░░░░░░░░░░   29.94 %
-Python        3 hrs 50 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
-Markdown      3 hrs 19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
-CSS           3 hrs 3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-Image (svg)   2 hrs 19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+TypeScript    5 hrs 26 mins         ███████▒░░░░░░░░░░░░░░░░░   29.11 %
+Python        3 hrs 55 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
+Markdown      3 hrs 45 mins         █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+CSS           3 hrs 3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+Image (svg)   2 hrs 19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
 ```
 
 <!--END_SECTION:waka-->
