@@ -45,7 +45,9 @@ For a full overview of my 42 projects, see [42-projects](https://github.com/mars
 <!--START_SECTION:waka-->
 
 ```txt
-Other   13 mins               █████████████████████████   100.00 %
+Dart    3 hrs 29 mins         ██████████████████████▒░░   89.45 %
+Other   14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+YAML    10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 ```
 
 <!--END_SECTION:waka-->
