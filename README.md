@@ -45,11 +45,11 @@ For a full overview of my 42 projects, see [42-projects](https://github.com/mars
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   8 hrs 25 mins         ████████████▒░░░░░░░░░░░░   49.12 %
-Dart       5 hrs 45 mins         ████████▒░░░░░░░░░░░░░░░░   33.58 %
-Python     2 hrs 37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-YAML       12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Other      7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Markdown     7 hrs 55 mins         ███████████░░░░░░░░░░░░░░   44.33 %
+Dart         5 hrs 23 mins         ███████▓░░░░░░░░░░░░░░░░░   30.13 %
+Python       4 hrs 9 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+YAML         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Other        7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
