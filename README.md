@@ -7,57 +7,39 @@
 
 ## Hi, I’m Marsha 
 
-I’m an economist turned software engineer, currently exploring machine learning and AI.
+Software engineer with a background in economics and data, interested in backend systems, machine learning, and building reliable products.
 
-I enjoy building things that are both technically rigorous and genuinely useful. 
-
----
-
-## 🧠 Currently exploring
-
-- Writing a [series on the JavaScript event loop](https://github.com/marsha-t/javascript-event-loop-explained)  
-- Deepening my understanding of machine learning fundamentals  
-- Building small products and learning in public  
+Previously an economist; now studying software engineering at 42 Abu Dhabi.
 
 ---
 
-<h3> 💻 Selected Work</h3>
+### Selected Projects
 
-Projects I’ve built across full-stack systems, data analysis, and user-facing products.
+A few things I've built along the way.
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| [Portfolio Website](https://github.com/marsha-t/marsha-portfolio) |  Personal site with custom markdown pipeline for projects and writing | Next.js, Tailwind |
-| [ft_transcendence](https://github.com/marsha-t/ft_transcendence) | Real-time multiplayer web app built with a microservices architecture from scratch  | TypeScript, Fastify, Tailwind, Docker |
-| [SkinDiary](https://github.com/marsha-t/SkinDiary) | AI-powered skin and skincare tracker | Flutter, Firebase |
-| [Causal Analysis of Pension Deferral Incentives](https://github.com/marsha-t/causal_analysis_incentives) | Policy evaluation using differences-in-differences and regression discontinuity design | Stata |
+| Project | Description | Links |
+|---------|-------------|-------|
+| **ft_transcendence** | Real-time multiplayer web application built with a microservices architecture<br>*TypeScript · Fastify · WebSockets · Prisma · Docker* | [GitHub](https://github.com/marsha-t/ft_transcendence) · [Writeup](https://www.marshateo.com/projects/transcendence) |
+| **webserv** | HTTP/1.1 server built from scratch using non-blocking sockets and event-driven I/O<br>*C++ · Sockets · HTTP* | [GitHub](https://github.com/marsha-t/webserv) · [Writeup](https://www.marshateo.com/projects/webserv) |
+| **Portfolio Website** | Personal site with a custom Markdown pipeline for projects and technical writing<br>*Next.js · TypeScript · Tailwind* | [GitHub](https://github.com/marsha-t/marsha-portfolio) · [Writeup](https://www.marshateo.com/projects/portfolio) |
+| **Causal Analysis of Pension Deferral Incentives** | Policy evaluation using differences-in-differences and regression discontinuity design<br>*Stata · DiD · RDD* | [GitHub](https://github.com/marsha-t/causal_analysis_incentives) |
 
 For a full overview of my 42 projects, see [42-projects](https://github.com/marsha-t/42-projects).
 
+---
 
-### 🌐 Where to find me
-<p><a href="https://github.com/marsha-t" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marshateo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+### Selected Writing
 
+I write about concepts I've explored while learning and building.
 
-<h3>⏱️ My Weekly Coding Stats</h3>
+| Title | Description | Links |
+|---------|-------|-------|
+| **Learning Neural Networks Through Mental Models** | Exploring neural networks through complementary perspectives including function approximation, representation learning, optimisation, and computational graphs | [Article](https://medium.com/code-like-a-girl/learning-neural-networks-through-mental-models-987640973005) |
+| **Building the Event Loop Mental Model from Experiments** *(series)* | Experiments exploring JavaScript scheduling and asynchronous execution, including rendering, `requestAnimationFrame`, and responsive UI | [Series](https://www.marshateo.com/writing/javascript-event-loop-landing) · [Experiments](https://github.com/marsha-t/javascript-event-loop-explained) |
+| **Where Does “Meaning” Come From in a Transformer?** | Exploring where the apparent 'meaning' of CLS tokens, positional embeddings, queries, keys, and values actually comes from | [Article](https://www.marshateo.com/writing/transformer-meaning) |
 
-<!--START_SECTION:waka-->
+---
 
-```txt
-Markdown     2 hrs 38 mins         █████████████░░░░░░░░░░░░   51.64 %
-Python       1 hr 31 mins          ███████▒░░░░░░░░░░░░░░░░░   29.72 %
-TypeScript   55 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
-CSV          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
+### Elsewhere
 
-<!--END_SECTION:waka-->
-
-<details>
-<summary><h3>🌿 Away From Laptop</h3></summary>
-
-- Practicing Brazilian Jiu-Jitsu 
-- Solving jigsaw puzzles 
-
-</details>
+[Portfolio](https://www.marshateo.com) · [LinkedIn](https://www.linkedin.com/in/marshateo)
