@@ -21,6 +21,7 @@ A few things I've built along the way.
 |---------|-------------|-------|
 | **ft_transcendence** | Real-time multiplayer web application built with a microservices architecture<br>*TypeScript · Fastify · WebSockets · Prisma · Docker* | [GitHub](https://github.com/marsha-t/ft_transcendence) · [Writeup](https://www.marshateo.com/projects/transcendence) |
 | **webserv** | HTTP/1.1 server built from scratch using non-blocking sockets and event-driven I/O<br>*C++ · Sockets · HTTP* | [GitHub](https://github.com/marsha-t/webserv) · [Writeup](https://www.marshateo.com/projects/webserv) |
+| **Leaffliction** | Plant-disease classification pipeline covering dataset analysis, augmentation, image processing, model training, and inference<br>*Python · PyTorch · CNNs · Computer Vision* | [GitHub](https://github.com/marsha-t/leaffliction) |
 | **Portfolio Website** | Personal site with a custom Markdown pipeline for projects and technical writing<br>*Next.js · TypeScript · Tailwind* | [GitHub](https://github.com/marsha-t/marsha-portfolio) · [Writeup](https://www.marshateo.com/projects/portfolio) |
 | **Causal Analysis of Pension Deferral Incentives** | Policy evaluation using differences-in-differences and regression discontinuity design<br>*Stata · DiD · RDD* | [GitHub](https://github.com/marsha-t/causal_analysis_incentives) |
 
@@ -36,7 +37,7 @@ I write about concepts I've explored while learning and building.
 |---------|-------|-------|
 | **Learning Neural Networks Through Mental Models** | Exploring neural networks through complementary perspectives including function approximation, representation learning, optimisation, and computational graphs | [Article](https://medium.com/code-like-a-girl/learning-neural-networks-through-mental-models-987640973005) |
 | **Building the Event Loop Mental Model from Experiments** *(series)* | Experiments exploring JavaScript scheduling and asynchronous execution, including rendering, `requestAnimationFrame`, and responsive UI | [Series](https://www.marshateo.com/writing/javascript-event-loop-landing) · [Experiments](https://github.com/marsha-t/javascript-event-loop-explained) |
-| **Where Does “Meaning” Come From in a Transformer?** | Exploring where the apparent 'meaning' of CLS tokens, positional embeddings, queries, keys, and values actually comes from | [Article](https://www.marshateo.com/writing/transformer-meaning) |
+| **Where Does “Meaning” Come From in a Transformer?** | Exploring where the apparent 'meaning' of CLS tokens, positional embeddings, queries, keys, and values actually comes from | [Article](https://code.likeagirl.io/where-does-meaning-come-from-in-a-transformer-bc957f464957) |
 
 ---
 
